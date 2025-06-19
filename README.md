@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello! I'm Umar Shaik
 
-<!--
-**umarshk55/umarshk55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Java Developer passionate about creating desktop apps with Swing, JDBC, and MySQL. Currently building and learning new projects in Java.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- ✅ [Employment Management System](https://github.com/yourusername/employment-management-system)  
+  A Swing-based CRUD system for employee data.
+
+---
+
+## 🛠️ Skills
+- Java (Core + OOP)
+- Swing (Java GUI)
+- JDBC (Database Connectivity)
+- MySQL / Oracle
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: umarshaik1167@email.com
+- 💼 LinkedIn: [Umar Shaik](https://www.linkedin.com/in/umarshaik00/)
+
+
